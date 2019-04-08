@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FE10 Text Simulator", "FE10 Text Simulator\FE10 Text Simulator.csproj", "{11A345B4-ABDD-449A-9BF5-5950E8591FD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11A345B4-ABDD-449A-9BF5-5950E8591FD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11A345B4-ABDD-449A-9BF5-5950E8591FD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11A345B4-ABDD-449A-9BF5-5950E8591FD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11A345B4-ABDD-449A-9BF5-5950E8591FD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1B2F93A-429E-42EC-865F-34ADD798B0B0}
+	EndGlobalSection
+EndGlobal
